@@ -1,0 +1,25 @@
+* {
+    background-color:rgb(226, 224, 224) ;
+}
+
+h1 {
+    font-size: 44px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+    font-size: 44px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.recipe {
+    font-size: 24px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+/* class for images */
+.trial {
+    height: auto;
+    width: 250px;
+}
+
